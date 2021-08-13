@@ -1,0 +1,47 @@
+body{
+    background-color: #87d3ba;
+}
+
+#Conteneur{
+    width: 1024px;
+    background-color:#fff;
+    border-radius: 1px;
+    
+}
+
+
+h1{
+    
+    text-align: left;
+    padding-top: 50px;
+   
+}
+header{
+        height: 600px;
+        width: 450px;
+        
+}
+
+.entete{
+    text-align: center;
+
+}
+header img{
+    height: 350px;
+    width: 350px;
+    
+
+}
+
+
+/*#entete{
+    text-align: right;
+    display: inline;
+}
+
+#entete img{
+    height: 300px;
+    width: 300px;
+}*/
+
+

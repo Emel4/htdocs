@@ -1,0 +1,70 @@
+BODY{
+    font-family: Cormorant Garamond, serif;
+    background-color: #f6f6f7;
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+header{
+    width: 50%;
+    margin: 10% auto 5%;/* 10% pour le haut et le bas - 5% pour la droite et la gauche, si je mets qu'une valeur en em ou % ou autre, ça prendra tout le cadran*/
+    text-align: center;
+    
+}
+header h2{
+    color: maroon;
+    text-transform: uppercase;
+}
+header h1{
+    text-transform: uppercase;
+  
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    border: 1px solid palevioletred;
+    
+}
+
+nav ul li{
+    margin-right: 15px;
+    margin-left: 20px;
+    text-decoration: none;
+   
+}
+#assiette h2{
+    border: 1px solid palevioletred;
+    display: flex;
+    position: relative;
+}
+section{
+    
+}
+
+
+section{
+    width: 100%;/* la section prend toute la largeur de la section des 1024px du body*/
+    /*display: inline-block; */
+}
+
+
+
+
+
+
+
+
+/*
+h5{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.assiette{
+    float: right;
+}
+.salle{
+    float: left;
+}
